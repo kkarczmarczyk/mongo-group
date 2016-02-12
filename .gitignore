@@ -1,3 +1,6 @@
+# IDE config (phpStorm)
+.idea
+
 # Logs
 logs
 *.log

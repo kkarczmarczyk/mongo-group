@@ -1,0 +1,26 @@
+{
+  "name": "mongo-group",
+  "version": "0.1.0",
+  "description": "MongoDB '$group' utils provides range grouping, (date) interval grouping, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkarczmarczyk/mongo-group.git"
+  },
+  "keywords": [
+    "mongo",
+    "aggregation",
+    "group",
+    "utils",
+    "helper"
+  ],
+  "author": "Kamil Karczmarczyk <kkarczmarczyk@gmail.com> (http://karczmarczyk.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkarczmarczyk/mongo-group/issues"
+  },
+  "homepage": "https://github.com/kkarczmarczyk/mongo-group"
+}
